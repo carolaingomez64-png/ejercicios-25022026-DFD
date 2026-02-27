@@ -1,2 +1,9 @@
 # ejercicios-25022026-DFD
-Ejercicios de diagramas de flujo con estructuras condicionales y condiciones anidadas 
+## Integrantes
+- Carolain Vanessa Gómez Trujillo 1135356
+## Asignatura
+Programacion Básica
+## Docente
+Jasson Zamudio
+## Tema
+Estructuras condicionales en Diagramas de Flujo y condiciones anidadas.
